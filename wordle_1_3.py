@@ -1,5 +1,3 @@
-# To dos
-
 from tkinter import *
 import random
 
